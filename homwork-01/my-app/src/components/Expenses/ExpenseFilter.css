@@ -1,0 +1,23 @@
+.ex-filter-controll {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ex-filter-label {
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: 500;
+}
+
+.ex-filter-controll select {
+    font-size: 1.2rem;
+    text-align: center;
+    background-color: #40005d;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 500;
+    padding: 10px 25px;
+    border: 2px solid #fff;
+}
